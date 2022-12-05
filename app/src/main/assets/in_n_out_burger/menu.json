@@ -1,0 +1,84 @@
+{
+	"menu": [
+		{ 
+			"title" : "In n Out Burger (ኢን ኤን ኣውት በርገር) 			       ",            
+			"price" : "60 Nakfa",
+			"section_name" : "Sandwich (ፓኒኖ)",
+			"section_pic" : "2.jpg"
+
+		},
+		{ 
+			"title" : "Hamberger (ሃምበርገር)							       ",            
+			"price" : "40 Nakfa" 
+		},
+		{ 
+			"title" : "Cheese Burger(ቺዝ በርገር)						       ",            
+			"price" : "45 Nakfa" 
+		},
+		{ 
+			"title" : "Lapizma(ላፒዝማርክ)							           ",        
+			"price" : "45 Nakfa" 
+		},
+		{ 
+			"title" : "Egg Sandwich(ፓኒኖ እንቛቑሖ)					           ",        
+			"price" : "25 Nakfa" 
+		},
+		{ 
+			"title" : "Potato Sandwich(ፓኒኖ ድንሽ)					           ",        
+			"price" : "35 Nakfa" 
+		},
+		{ 
+			"title" : "Egg Sandwich With Potato(ፓኒኖ እንቛቑሖ ብ ድንሽ)  		",		
+			"price" : "40 NAkfa" 
+		},
+		{ 
+			"title" : "Fish Sandwich(ፓኒኖ ዓሳ) 								",		
+			"price" : "45 NAkfa" 
+		},
+		{ 
+			"title" : "French Fries(ፍረንች ፍራይስ) 							",		
+			"price" : "50 Nakfa" 
+		},
+		{ 
+			"title" : "Banana & Milk Juice(ባናና ብጸባ) 	",		
+			"price" : "	30 Nakfa",
+			"section_name" : "Juice (ጽሟቕ)",
+			"section_pic" : "1.jpg"
+		},
+		{ 
+			"title" : "Papaya(ፓፓዮ)					",		
+			"price" : "	25 Nakfa"
+		},
+		{ 
+			"title" : "Zeytibun(ዘይትቡን)				",		
+			"price" : "	25 Nakfa"
+		},
+		{ 
+			"title" : "Mixed Juice(ስፕሪስ)				",		
+			"price" : "	30 Nakfa"
+		},
+		{ 
+			"title" : "Mango(ማንጎ)					",			
+			"price" : "	50 Nakfa"
+		}
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   			   
+
+
+
+
+      

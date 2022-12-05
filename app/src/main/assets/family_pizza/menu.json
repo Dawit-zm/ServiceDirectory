@@ -1,0 +1,359 @@
+{
+	"menu": [
+		{
+			"title": "MARGHERITTA \n(tomatoes,mozzarella)                                      ",
+			"price": " Medium -129.00 NKF \n : Large -139.00 NKF  ",
+			"section_name": "PIZZA",
+			"section_pic": "8.jpg"
+		},
+		{
+			"title": "MARINARA \n( tomatoes,green papper, garlic)                              ",
+			"price": " Medium -105.00 NKF \n : Large -115.00 NKF  "
+		},
+		{
+			"title": "NAPOLITANA  \n(tomatoes, mozzarella, olives)                             ",
+			"price": " Medium -139.00 NKF \n : Large -149.00 NKF  "
+		},
+		{
+			"title": "AL-TUNA \n(tomatoes, mozzarella, tuna)                                   ",
+			"price": " Medium -139.00 NKF \n : Large -149.00 NKF  "
+		},
+		{
+			"title": "AL-FUNGI\n (tomatoes,mozzarella, fungi)                                  ",
+			"price": " Medium -129.00  NKF\n : Large -139.00 NKF  "
+		},
+		{
+			"title": "CAPRICHOSA \n( tomatoes,mozzarella, fungi,olives, ham)                   ",
+			"price": " Medium -139.00 NKF \n : Large -149.00 NKF  "
+		},
+		{
+			"title": "AFRICANA \n(tomatoes,mozzarella, meat, green pepper)                     ",
+			"price": " Medium -139.00 NKF \n : Large -149.00 NKF  "
+		},
+		{
+			"title": "AMERICANA \n(tomates,mozzarella ,ananas, ricotta)						",
+			"price": " Medium -139.00 NKF \n : Large -149.00 NKF    "
+		},
+		{
+			"title": "FOUR SEASONS \n (tomatoes,mozzarella, tuna, fungi, ham, ruccola)         ",
+			"price": " Medium -139.00 NKF \n : Large -149.00 NKF  "
+		},
+		{
+			"title": "VEGETARIAN \n( tomatoes, mozzarella, spinach)                            ",
+			"price": " Medium -129.00 NKF \n : Large -139.00 NKF  "
+		},
+		{
+			"title": "FAMILY \n(tomatoes,mozzarella, olives, mushroom, ham, pepperoni, beef) ",
+			"price": " Medium -153.00  NKF\n : Large -167.00 NKF  "
+		},
+		{
+			"title": "SEA FOOD \n(tomatoes,mozzarella, shrimps)                                ",
+			"price": " Medium -129.00 NKF \n : Large -149.00 NKF  "
+		},
+		{
+			"title": "AL-FORMAGIO \n(tomatoes,mozzarella, cheese)                              ",
+			"price": " Medium -139.00 NKF \n : Large -149.00 NKF  "
+		},
+		{
+			"title": "FOCACIA                                                   				",
+			"price": " Medium -59.00 NKF  \n : Large -69.00 NKF  "
+		},
+		{
+			"title": "CALZZONE                                                  				",
+			"price": "Depends on the Ingredients"
+		},
+		{
+			"title": "KICHA FITFIT WITH SPRICE      ",
+			"price": "54.00 NAKFA",
+			"section_name": "BREAKFAST",
+			"section_pic": "2.jpg"
+		},
+		{
+			"title": "KICHA FITFIT BEEF             ",
+			"price": "49.00 NAKFA"
+		},
+		{
+			"title": "KICHA FITFIT BUTTER           ",
+			"price": "44.00 NAKFA"
+		},
+		{
+			"title": "KICHA FITFIT OLIVE OIL        ",
+			"price": "44.00 NAKFA"
+		},
+		{
+			"title": "KICHA FITFIT WITH SILSI       ",
+			"price": "35.00 NAKFA"
+		},
+		{
+			"title": "KICHA FITFIT SORGHUM NORMAL   ",
+			"price": "45.00 NAKFA"
+		},
+		{
+			"title": "KICHA FITFIT SORGHAM with beef",
+			"price": "50.00 NAKFA"
+		},
+		{
+			"title": "ENJERA FITFIT WITH SHIRO      ",
+			"price": "49.00 NAKFA"
+		},
+		{
+			"title": "FOUL NORMAL                   ",
+			"price": "29.00 NAKFA"
+		},
+		{
+			"title": "FOUL WITH BUTTER              ",
+			"price": "34.00 NAKFA"
+		},
+		{
+			"title": "FOUL WITH OLIVE OIL           ",
+			"price": "34.00 NAKFA"
+		},
+		{
+			"title": "FOUL WITH SESAME              ",
+			"price": "39.00 NAKFA"
+		},
+		{
+			"title": "HAMBURGER                         ",
+			"price": "55.00 NAKFA",
+			"section_name": "Sandwich",
+			"section_pic": "10.jpg"
+		},
+		{
+			"title": "CHEESEBURGER                      ",
+			"price": "59.00 NAKFA"
+		},
+		{
+			"title": "ALA-BISMARK                       ",
+			"price": "70.00 NAKFA"
+		},
+		{
+			"title": "FAMILY                            ",
+			"price": "74.00 NAKFA"
+		},
+		{
+			"title": "EGG                               ",
+			"price": "35.00 NAKFA"
+		},
+		{
+			"title": "EGG AND CHEESE                    ",
+			"price": "39.00 NAKFA"
+		},
+		{
+			"title": "POTATO                            ",
+			"price": "30.00 NAKFA"
+		},
+		{
+			"title": "PLATE OF SALAD                    ",
+			"price": "40.00 NAKFA"
+		},
+		{
+			"title": "PLATE OF SALAD WITH HAM AND CHEESE",
+			"price": "59.00 NAKFA"
+		},
+		{
+			"title": "OMLET                             ",
+			"price": "40.00 NAKFA"
+		},
+		{
+			"title": "OMLET WITH HAM AND CHEESE      		 ",
+			"price": "49.00 NAKFA          "
+		},
+		{
+			"title": "SCRAMBLED EGG                     ",
+			"price": "29.00 NAKFA    "
+		},
+		{
+			"title": "SCRAMBLED EGG WITH CHEESE       		",
+			"price": "35.00 NAKFA    "
+		},
+		{
+			"title": "FRENCH FRIES                      ",
+			"price": "35.00 NAKFA    "
+		},
+		{
+			"title": "ASMARA BEER    ",
+			"price": " 20.00 NAKFA    ",
+			"section_name": "ALCOHOLIC",
+			"section_pic": "1.jpg"
+		},
+		{
+			"title": "BOTTLE OF WINE ",
+			"price": "450.00 NAKFA    "
+		},
+		{
+			"title": "A GLASS OF WINE",
+			"price": " 75.00 NAKFA    "
+		},
+		{
+			"title": "MACARONI WITH TOMATO SAUCE  ",
+			"price": " 76.00 NAKFA    ",
+			"section_name": "Pasta",
+			"section_pic": "7.jpg"
+		},
+		{
+			"title": "MACARONI WITH MEAT SAUCE    ",
+			"price": " 89.00 NAKFA    "
+		},
+		{
+			"title": "MACARONI WITH SHRIMP SAUCE  ",
+			"price": "109.00 NAKFA    "
+		},
+		{
+			"title": "SPAGHETTI WITH TOMATO SAUCE ",
+			"price": " 76.00 NAKFA    "
+		},
+		{
+			"title": "SPAGHETTI WITH MEAT SAUCE   ",
+			"price": " 89.00 NAKFA    "
+		},
+		{
+			"title": "SPAGHETTI WITH SHRIMP SAUCE ",
+			"price": "109.00 NAKFA    "
+		},
+		{
+			"title": "FILLET STEAK",
+			"price": "139.00 NAKFA",
+			"section_name": "STEAK",
+			"section_pic": "4.jpg"
+		},
+		{
+			"title": "FISH  GRILL                 ",
+			"price": "129.00 NAKFA    ",
+			"section_name": "FISH"
+		},
+		{
+			"title": "FISH CUTLET                 ",
+			"price": "159.00 NAKFA    "
+		},
+		{
+			"title": "RED SNAPPER WITH CHILI SAUCE",
+			"price": "149.00 NAKFA    "
+		},
+		{
+			"title": "TAGLIATA                    ",
+			"price": "189.00 NAKFA    "
+		},
+		{
+			"title": "FRIED SHRIMP                ",
+			"price": "199.00 NAKFA    "
+		},
+		{
+			"title": "GRILLED SHRIMP              ",
+			"price": "189.00 NAKFA    "
+		},
+		{
+			"title": "COCA COLA               ",
+			"price": "10.00 NAKFA    ",
+			"section_name": "COLD DRINK",
+			"section_pic": "3.jpg"
+		},
+		{
+			"title": "FANTA                   ",
+			"price": "10.00 NAKFA    "
+		},
+		{
+			"title": "SPRITE                  ",
+			"price": "10.00 NAKFA    "
+		},
+		{
+			"title": "BOTTLE WATER 1.5 liter  ",
+			"price": "25.00 NAKFA    "
+		},
+		{
+			"title": "BOTTLE WATER 1 LITER    ",
+			"price": "20.00 NAKFA    "
+		},
+		{
+			"title": "BOTTLE WATER 0.5LITRE   ",
+			"price": "15.00 NAKFA    "
+		},
+		{
+			"title": "CARBONATED WATER BIG    ",
+			"price": "15.00 NAKFA    "
+		},
+		{
+			"title": "DUBARWA CARBONATED WATER",
+			"price": "10.00 NAKFA    "
+		},
+		{
+			"title": "FAMILY SPECIAL   ",
+			"price": "25.00 NAKFA",
+			"section_name": "JUICE",
+			"section_pic": "6.jpg"
+		},
+		{
+			"title": "MIXED JUICE      ",
+			"price": "20.00 NAKFA"
+		},
+		{
+			"title": "ORANGE           ",
+			"price": "25.00 NAKFA"
+		},
+		{
+			"title": "PAPAYA           ",
+			"price": "22.00 NAKFA"
+		},
+		{
+			"title": "GUAVA            ",
+			"price": "18.00 NAKFA"
+		},
+		{
+			"title": "BANANA           ",
+			"price": "18.00 NAKFA"
+		},
+		{
+			"title": "BANANA WITH MILK ",
+			"price": "25.00 NAKFA"
+		},
+		{
+			"title": "MANGO            ",
+			"price": "30.00 NAKFA"
+		},
+		{
+			"title": "LIPTON TEA                   ",
+			"price": " 7.50 NAKFA    ",
+			"section_name": "HOT DRINK",
+			"section_pic": "5.jpg"
+		},
+		{
+			"title": "GREEN TEA                    ",
+			"price": " 8.50 NAKFA    "
+		},
+		{
+			"title": "GINGER TEA                   ",
+			"price": " 7.50 NAKFA    "
+		},
+		{
+			"title": "COFFEE                       ",
+			"price": " 9.50 NAKFA    "
+		},
+		{
+			"title": "MACHIATO                     ",
+			"price": " 9.50 NAKFA    "
+		},
+		{
+			"title": "CAPPUCCINO                   ",
+			"price": "12.15 NAKFA    "
+		},
+		{
+			"title": "SHACHIATO(MIXED TEA & COFFEE)",
+			"price": " 9.50 NAKFA    "
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+   			   
+
+
+
+
+      

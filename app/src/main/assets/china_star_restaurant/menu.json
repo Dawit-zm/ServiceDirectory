@@ -1,0 +1,518 @@
+{
+	"menu": [
+		{ 
+            "title" : "SLICE OF FISH MEAT WITH RED OIL",
+            "price" : "85.00 NKF",
+            "section_name": "APPETIZERS",
+            "section_pic" : "1.jpg"
+        },
+        { 
+            "title" : "SLICE OF CHICKEN IN CHILL SAUCE",
+            "price" : "135.00 NKF"
+        },
+        { 
+            "title" : "SHREDDED MEAT IN SESAME",
+            "price" : "135.00 NKF"
+        },
+        { 
+            "title" : "PEANUTS SERVED WITH CELERY",
+            "price" : "55.00 NKF"
+        },
+        { 
+            "title" : "SOUR AND CHILI PORK",
+            "price" : "105.00 NKF"
+        },
+        { 
+            "title" : "SPRING ROLLS(TWO PIECES)",
+            "price" : "55.00 NKF"
+        },
+        { 
+            "title" : "VEGETABLE SALAD",
+            "price" : "70.00 NKF"
+        },
+        { 
+            "title" : "DUMPLING FRIED OR STEAMED (10 PIECES)",
+            "price" : "90.00 NKF"
+        },
+        { 
+            "title" : "TOMATO AND EGG SOUP",
+            "price" : "50.00 NKF",
+            "section_name" : "SOUP",
+            "section_pic" : "11.jpg"
+        },
+        { 
+            "title" : "CHICKEN SOFT AND THICK SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN AND PEANUT SHOP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "HOT AND SOUR DEVIL SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "SPINACH AND EGG SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "HOT AND SOUR EGGPLANT SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "HOT BEEF SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "THREE FRESH INGREDIENTS SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "WUN TUN SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "FISH SOUP",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "NOODLES SOUP",
+            "price" : "50.00 NKF"
+        },
+        { 
+            "title" : "VEGETABLE SOUP",
+            "price" : "50.00 NKF"
+        },
+        { 
+            "title" : "SEASONED RICE SOUP",
+            "price" : "50.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN ON HOT PLATE",
+            "price" : "300.00 NKF",
+            "section_name" : "CHICKEN",
+            "section_pic" : "4.jpg"
+        },
+        { 
+            "title" : "CHICKEN ON HOT PLATE WITH WINE SAUCE",
+            "price" : "300.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN WITH OYSTER SAUCE",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN WITH SWEET PEPPER",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "FRIED LEMON CHICKEN",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "GARLIC AND CHILI CHICKEN",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN MEAT IN SESAME",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN MEAT WITH ORANGE JUICE",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN PEANUTS",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN SWEET & SOUR",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN MUSHROOM",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "CHICKEN CHILI SAUCE",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "FRIED SPRING CHICKEN",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "FRIED WHOLE SPICED CHICKEN",
+            "price" : "280.00 NKF"
+        },
+        { 
+            "title" : "FISH WITH CHILI SAUCE",
+            "price" : "150.00 NKF",
+            "section_name": "FISH",
+            "section_pic": "6.jpg"
+        },
+        { 
+            "title" : "SOFT FRIED FISH CUTLET",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "WHOLE FISH SOY OR CHILI SAUCE",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "FISH WITH ORANGE SAUCE",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "FISH ON HOT PLATE",
+            "price" : "175.00 NKF" 
+        },
+        { 
+            "title" : "FISH ON HOT PLATE IN WINE SAUCE",
+            "price" : "175.00 NKF" 
+        },
+        { 
+            "title" : "FISH WITH SOY SAUCE",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "FISH WITH HOT PEPPER",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "FRIED FISH WITH EGGPLANT",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "SWEET AND SOUR SHRIMPS",
+            "price" : "170.00 NKF" 
+        },
+        { 
+            "title" : "CRISP PRAWNS WITH TOMATO SAUCE",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "CRISP FRIED PRAWNS WITH SESAME",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "FRAGRANT AND HOT SHRIMPS",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "STIR-FRIED SHRIMPS ON HOT PLATE",
+            "price" : "185.00 NKF" 
+        },
+        { 
+            "title" : "SOFT FRIED SHRIMPS",
+            "price" : "170.00 NKF" 
+        },
+        { 
+            "title" : "FRIED SHRIMPS WITH VEGETABLES",
+            "price" : "170.00 NKF" 
+        },
+        { 
+            "title" : "LOBSTER WITH PEANUTS",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "SWEET AND SOUR FISH",
+            "price" : "150.00 NKF" 
+        },
+        { 
+            "title" : "BEEF IN CURRY SAUCE          ",
+            "price" : "130.00 NKF",
+            "section_name" : "BEEF AND MUTTON",
+            "section_pic" : "2.jpg"
+        },
+        { 
+            "title" : "BEEF ON HOT PLATE            ",
+            "price" : "145.00 NKF" 
+        },
+        { 
+            "title" : "BEEF FINGERS IN TOMATO SAUCE ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "BEEF WITH DEEP FRIED GARLIC  ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "BEEF SWEET PEPPER            ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "CRISP BEEF                   ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "BEEF MEAT BALLS (SWEET SOUR) ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "BEEF WITH OYSTER SAUCE       ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "BEEF CHILI SAUCE             ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "BEEF WITH ONIONS             ",
+            "price" : "130.00 NKF" 
+        },
+        { 
+            "title" : "PORK ON HOT PLATE                         ",
+            "price" : "175.00 NKF",
+            "section_name" : "PORK",
+            "section_pic" : "9.jpg"
+        },
+        { 
+            "title" : "FRIED PORK IN CHILI SAUCE                 ",
+            "price" : "150.00 NKF"
+        },
+        { 
+            "title" : "PORK ON HOT SAUCE                         ",
+            "price" : "150.00 NKF"
+        },
+        { 
+            "title" : "CRISP PORK WITH EGGS IN SOUR & CHILI SAUCE",
+            "price" : "150.00 NKF"
+        },
+        { 
+            "title" : "CRISP PORK MEAT IN TOMATO SAUCE           ",
+            "price" : "150.00 NKF"
+        },
+        { 
+            "title" : "PORK HOT PEPPER                           ",
+            "price" : "150.00 NKF"
+        },
+        { 
+            "title" : "SWEET AND SOUR SPARE RIBS                 ",
+            "price" : "150.00 NKF "
+        },
+        { 
+            "title" : "FRIED SPARE RIBS                          ",
+            "price" : "170.00 NKF"
+        },
+        { 
+            "title" : "SWEET & SOUR PORK MEAT                    ",
+            "price" : "150.00 NKF"
+        },
+        { 
+            "title" : "FRIED RICE WITH CHICKEN      ",
+            "price" : "M 90.00 NKF\nL - 110.00 NKF ",
+            "section_name": "RICE",
+            "section_pic" : "10.jpg"
+        },
+        { 
+            "title" : "FRIED RICE WITH PORK         ",
+            "price" : "M 90.00 NKF\nL - 110.00 NKF"
+        },
+        { 
+            "title" : "MIXED FRIED RICE             ",
+            "price" : "M 90.00 NKF\nL - 105.00 NKF"
+        },
+        { 
+            "title" : "FRIED RICE WITH VEGETABLES   ",
+            "price" : "M 85.00 NKF\nL - 105.00 NKF"
+        },
+        { 
+            "title" : "STEAMED RICE                 ",
+            "price" : "M 70.00 NKF\nL -  90.00 NKF "
+        },
+        { 
+            "title" : "FRIED RICE WITH BEEF OR FISH ",
+            "price" : "M 90.00 NKF\nL - 110.00 NKF"
+        },
+        { 
+            "title" : "FRIED RICE WITH SHRIMPS      ",
+            "price" : "M 90.00 NKF\nL - 110.00 NKF"
+        },
+        { 
+            "title" : "FRIED NOODLES WITH PORK         ",
+            "price" : "M 95.00 NKF\nL115.00 NKF",
+            "section_name": "NOODLES",
+            "section_pic" : "8.jpg"
+        },
+        { 
+            "title" : "FRIED NOODLES SALTATOR          ",
+            "price" : "M 95.00 NKF\nL115.00 NKF"
+        },
+        { 
+            "title" : "FRIED NOODLES WITH CHICKEN      ",
+            "price" : "M 95.00 NKF\nL120.00 NKF"
+        },
+        { 
+            "title" : "FRIED NOODLES  WITH BEEF OR FISH",
+            "price" : "M 95.00 NKF\nL120.00 NKF"
+        },
+        { 
+            "title" : "FRIED NOODLES WITH VEGETABLE    ",
+            "price" : "M 90.00 NKF\nL115.00 NKF"
+        },
+        { 
+            "title" : "STEWED NOODLES WITH MUSHROOMS   ",
+            "price" : "M 95.00 NKF\nL120.00 NKF"
+        },
+        { 
+            "title" : "FRIED NOODLES WITH SHRIMPS      ",
+            "price" : "M 95.00 NKF\nL115.00 NKF"
+        },
+        { 
+            "title" : "TOFFEE BANANA                ",
+            "price" : "60.00 NKF",
+            "section_name" : "DESSERTS",
+            "section_pic": "5.jpg"
+        },
+        { 
+            "title" : "TOFFEE PINEAPPLE             ",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "PINEAPPLE(SYRUP)             ",
+            "price" : "60.00 NKF "
+        },
+        { 
+            "title" : "LYNCHEE SYRUP                ",
+            "price" : "60.00 NKF"
+        },
+        { 
+            "title" : "PEACHES SYRUP (SLICE PAPAYA) ",
+            "price" : "55.00 NKF"
+        },
+        { 
+            "title" : "FRUIT COCKTAIL               ",
+            "price" : "55.00 NKF"
+        },
+        { 
+            "title" : "BANANA BOAT (BANANA WITH ICECAM)",
+            "price" : "                    55.00 NKF"
+        },
+        { 
+            "title" : "FRESH STRAWBERRY WITH WHIPPED CREAM",
+            "price" : "                 55.00 NKF"
+        },
+        { 
+            "title" : "ORANGE JUICE       ",
+            "price" : "50.00 NKF",
+            "section_name" : "JUICE",
+            "section_pic" : "7.jpg"
+        },
+        { 
+            "title" : "BANANA JUICE       ",
+            "price" : "25.00 NKF"
+        },
+        { 
+            "title" : "CARROT JUICE       ",
+            "price" : "40.00 NKF"
+        },
+        { 
+            "title" : "MANGO JUICE        ",
+            "price" : "50.00 NKF"
+        },
+        { 
+            "title" : "PINEAPPLE JUICE    ",
+            "price" : "50.00 NKF"
+        },
+        { 
+            "title" : "PAPAYA JJUICE      ",
+            "price" : "30.00 NKF"
+        },
+        { 
+            "title" : "COCKTAIL JUICE     ",
+            "price" : "30.00 NKF"
+        },
+        {
+            "title" : "CHINESE TEA (PER CUP) ",
+            "price" : "10.00 NKF",
+            "section_name": "TEA TIME",
+            "section_pic" : "12.jpg"
+        },
+        {
+            "title" : "TEA (PER CUP)",
+            "price" : "8.00 NKF"
+        },
+        { 
+            "title" : "MINERAL WATER (LOCAL)           ",
+            "price" : "15.00 NKF",
+            "section_name" : "BEVERAGES",
+            "section_pic" : "3.jpg"
+        },
+        { 
+            "title" : "AQUA LIFE DRINKING WATER LARGE  ",
+            "price" : "35.00 NKF"
+        },
+        { 
+            "title" : "AQUA LIFE DRINKING WATER SMALL  ",
+            "price" : "25.00 NKF"
+        },
+        { 
+            "title" : "SOFT DRINKS                     ",
+            "price" : "10.00 NKF"
+        },
+        { 
+            "title" : "ASMARA BEER                     ",
+            "price" : "20.00 NKF"
+        },
+        { 
+            "title" : "GOLD STAR BEER                  ",
+            "price" : "20.00 NKF"
+        },
+        { 
+            "title" : "WHISKEY STANDARD (35CC)         ",
+            "price" : "10.00 NKF"
+        },
+        { 
+            "title" : "WHISKEY PREMIUM (35CC)          ",
+            "price" : "90.00 NKF"
+        },
+        { 
+            "title" : "LIQUEURS (35CC)                 ",
+            "price" : "90.00 NKF"
+        },
+        { 
+            "title" : "COGNAC FRENCH (35CC)            ",
+            "price" : "90.00 NKF"
+        },
+        { 
+            "title" : "VODKA GIN (35CC)                ",
+            "price" : "70.00 NKF"
+        },
+        { 
+            "title" : "CAMPARI (35CC)                  ",
+            "price" : "70.00 NKF"
+        },
+        { 
+            "title" : "ASMARA GIN, COGNAC, ZEBIB (35CC)",
+            "price" : "20.00 NKF"
+        },
+        { 
+            "title" : "GLASS WINE                  ",
+            "price" : "70.00 NKF",
+            "section_name" : "WINE",
+            "section_pic" : "13.jpg"
+        },
+        { 
+            "title" : "IMPORTED ITALIAN WINE       ",
+            "price" : "350.00 NKF"
+        },
+        { 
+            "title" : "IMPORTED FRENCH WINE        ",
+            "price" : "350.00 NKF"
+        },
+        { 
+            "title" : "IMPORTED SOUTH AFRICAN WINE ",
+            "price" : "350.00 NKF"
+        },
+        { 
+            "title" : "IMPORTED AUSTRALIAN WINE    ",
+            "price" : "350.00 NKF"
+        },
+        { 
+            "title" : "LOCAL WINE (SHALKU)         ",
+            "price" : "450.00 NKF"
+        }
+	]
+}

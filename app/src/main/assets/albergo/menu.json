@@ -1,0 +1,268 @@
+{
+	"menu": [
+		{ "title": "Beer Asmara", 
+		   "price": "30 Nakfa",
+		   "section_name": "Bar",
+		   "section_pic": "8.jpg"
+		},    
+		{ "title": "Cognac Convaiser", 
+		   "price": "60 Nakfa"
+		},
+		{ "title": "Cognac Hennesey", 
+		   "price": "60 Nakfa"
+		},
+		{ "title": "Gin Tanqueray", 
+		   "price": "50 Nakfa"
+		},
+		{ "title": "Gin Gordon", 
+		   "price": "60 Nakfa"
+		},
+		{ "title": "Whiskey High Lnad Queen", 
+		   "price": "60 Nakfa"
+		},
+		{ "title": "Whiskey Black Lebel", 
+		   "price": "70 Nakfa"
+		},
+		{ "title": "Whiskey Red Lebel", 
+		   "price": "60 Nakfa"
+		},
+		{ "title": "Whiskey White Horse", 
+		   "price": "60 Nakfa"
+		},
+		{ "title": "Tequila", 
+		   "price": "50 Nakfa"
+		},
+		{ "title": "Vodka", 
+		   "price": "60 Nakfa"
+		},
+		{ "title": "Zebib", 
+		   "price": "20 Nakfa"
+		},
+		{ "title": "Cognac Asmara", 
+		   "price": "20 Nakfa"
+		},
+		{ "title": "Gin Asmara", 
+		   "price": "20 Nakfa"
+		},
+		{ "title": "Amarula", 
+		   "price": "60 Nakfa"
+		},
+		{ "title":"Coffee",
+		  "price":"25 Nakfa",
+		  "section_name": "Garden Café",
+		  "section_pic": "9.jpg"
+		},   
+		{ "title":"Macchiato",
+		  "price":"25 Nakfa"
+		},
+		{ "title":"Capuccino",
+		  "price":"35 Nakfa"
+		},
+		{ "title":"Milk",
+		  "price":"30 Nakfa"
+		},
+		{ "title":"Tea",
+		  "price":"25 Nakfa"
+		},
+		{ "title":"Tea With Milk",
+		  "price":"40 Nakfa"
+		},
+		{ "title":"Coca Cola",
+		  "price":"25 Nakfa"
+		},
+		{ "title":"Gingerino",
+		  "price":"25 Nakfa"
+		},
+		{ "title":"Sabarguma Water",
+		  "price":"25 Nakfa"
+		},
+		{ "title":"Pure Aqua 500ml",
+		  "price":"30 Nakfa"
+		},
+		{ "title":"Pure Aqua(15lit)",
+		  "price":"50 Nakfa"
+		},      
+		{ 
+			"title":"Ravioli Alla Crudaiola",
+			"price":"250 Nakfa",
+			"section_name": "Restaurant - First Course",
+			"section_pic": "10.jpg"
+		},
+		{ 
+			"title":"Lazagna Al Forno all'Albergo",
+			"price":"250 Nakfa"
+		},
+		{ 
+			"title":"Crespelle",
+			"price":"250 Nakfa"
+		},
+		{ 
+			"title":"Pasta Alla Patrone",
+			"price":"300 Nakfa"
+		},
+		{ 
+			"title":"Pasta Bolognese",
+			"price":"300 Nakfa"
+		},
+		{ 
+			"title":"Spaghetti Con Gamberi",
+			"price":"300 Nakfa"
+		},
+		{ 
+			"title":"Pasta al Pomodro",
+			"price":"250 Nakfa"
+		},
+		{ 
+			"title":"Risotto ConVerdura",
+			"price":"250 Nakfa"
+		},
+        { 
+            "title": "Cernia all'Alnergo",
+            "price": "350 Nakfa",
+            "section_name": "Restaurant - Main Course",
+            "section_pic": "11.jpg"
+        },
+        { 
+            "title": "Spiedini Di Gamberoni",
+            "price": "350 Nakfa"
+        },
+        { 
+            "title": "Pesce Dello Chef",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Piatto Al Pescatore",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Pesce D'Orato",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Cotoletta Di Pesce",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Cotoletta Di Carne",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Filetto Di Mnazo Alla Moda",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Saltimbocca Alla Asmara",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Braciola Di Maiale Alla Griglia",
+            "price": "300 Nakfa"
+        },
+        { 
+            "title": "Special Albergo Pizza",
+            "price": "280 Nakfa",
+            "section_name": "Pizza House",
+            "section_pic": "12.jpg"
+        },
+        { 
+            "title": "A La Patron",
+            "price": "280 Nakfa"
+        },
+        { 
+            "title": "Africana",
+            "price": "250 Nakfa"
+        },
+        { 
+            "title": "Capricciosa a la Albergo",
+            "price": "250 Nakfa"
+        },
+        { 
+            "title": "Margherita",
+            "price": "230 Nakfa"
+        },
+        { 
+            "title": "A La Fantasia",
+            "price": "250 Nakfa"
+        },
+        { 
+            "title": "Vegeteriana a la lent",
+            "price": "200 Nakfa"
+        },
+        { 
+            "title": "Pizza Della Famiglia",
+            "price": "500 Nakfa"
+        },
+        { 
+            "title": "Albergo Italia Ful Breakfast",
+            "price": "300 Nakfa",
+            "section_name": "Breakfast",
+            "section_pic": "13.jpg"
+        },
+        { 
+            "title": "Omelete",
+            "price": "120 Nakfa"
+        },
+        { 
+            "title": "Steaslk and Egg",
+            "price": "200 Nakfa"
+        },
+        { 
+            "title": "Butter Jam With Toast",
+            "price": "175 Nakfa"
+        },
+        { 
+            "title": "Fresh Squizzed Orange Juice",
+            "price": "150 Nakfa"
+        },
+        { 
+            "title": "Foul Medemes",
+            "price": "120 Nakfa"
+        },
+        { 
+            "title": "Corn Flakes",
+            "price": "120 Nakfa"
+        },
+        { 
+            "title": "Minestrone(Soup)",
+            "price": "150 Nakfa",
+            "section_name": "Appetizer and Desert",
+            "section_pic": "13.jpg"
+        },
+        { 
+            "title": "Zuppa Alle Vongole (Soup)",
+            "price": "150 Nakfa"
+        },
+        { 
+            "title": "Stracciatella(Soup)",
+            "price": "150 Nakfa"
+        },
+        { 
+            "title": "Insalata dell'orto Asmarino (Salad)",
+            "price": "150 Nakfa"
+        },
+        { 
+            "title": "Insalata al l'Albergo(Salad)",
+            "price": "200 Nakfa"
+        },
+        { 
+            "title": "Cocktail di Gamberi(Salad)",
+            "price": "200 Nakfa"
+        },
+        { 
+            "title": "Cioccolato Paradiso(Desert)",
+            "price": "100 Nakfa"
+        },
+        { 
+            "title": "Insalata Di Frutta Stagionale(Desert)",
+            "price": "100 Nakfa"
+        },
+        { 
+            "title": "Crema Caramellata(Desert)",
+            "price": "100 Nakfa"
+        },
+        { 
+            "title": "Dolce Alla Sorpresa Dello Chef(Desert)",
+            "price": "100 Nakfa"
+        }
+	]
+}

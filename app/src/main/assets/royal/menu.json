@@ -1,0 +1,76 @@
+{
+	"menu": [
+			{ 
+ "title" : "Miliefoglie			", 
+"price" : " 			12 Nakfa",
+"section_name": "CAKES",
+"section_pic" : "5jpg"
+},
+{ "title" : "Oats					", "price" : " 	8 Nakfa"},
+{ "title" : "Cheese Slice			", "price" : " 	18 Nakfa"},
+{ "title" : "Torta Slice(Like moka)	", "price" : " 			17 Nakfa"},
+{ "title" : "Pizza					", "price" : " 	6 Nakfa"},
+{ "title" : "Slice Cake				", "price" : " 		80 Nakfa"},
+{ "title" : "Cookies				", "price" : " 		90 Nakfa"},
+{ "title" : "Full Miliefoglie		", "price" : " 		190 Nakfa"},
+{ "title" : "Full Torta				", "price" : " 		180 Nakfa"},
+{ "title" : "Full Fruit Torta		", "price" : " 		130 Nakfa                                          "},
+{ "title" : "Full Cheese Torta		", "price" : " 		180 Nakfa"},
+{ "title" : "Paradiso				", "price" : " 		100 Nakfa"},
+{ "title" : "Pizzettini				", "price" : " 		100 Nakfa"},
+{ "title" : "Bigen/Donut/Fiama		", "price" : " 		120 Nakfa"},
+{ "title" : "Wedding Torta			", "price" : " 	300 Nakfa"},
+{ "title" : "Tea					" , "price" : "	6 Nakfa             ", "section_name": "HOT DRINKS", "section_pic": "7.jpg"},
+{ "title" : "Coffee					" , "price" : "	8 Nakfa" },
+{ "title" : "Capuchino				" , "price" : "		10 Nakfa" },
+{ "title" : "Hot Chocolate Normal	" , "price" : "					15 Nakfa" },
+{ "title" : "Hot Chocolate Cream	" , "price" : "					18 Nakfa" },
+{ "title" : "Milk Shake				" , "price" : "		35 Nakfa" },
+{ "title" : "Milk Shake Take away	" , "price" : "					35 Nakfa" },
+{ "title" : "Caffelate				" , "price" : "		12 Nakfa" },
+{ "title" : "Cold Milk							", "price" : "		10 Nakfa" , "section_name": "COLD DRINK", "section_pic" : "10.jpg"},
+{ "title" : "Water Small						", "price" : "			18 Nakfa" },
+{ "title" : "Middle Water						", "price" : "			20 Nakfa" },
+{ "title" : "Big Water							", "price" : "		25 Nakfa" },
+{ "title" : "Soft Drinks						", "price" : "			12 Nakfa" },
+{ "title" : "Sabarguma							", "price" : "		12 Nakfa" },
+{ "title" : "Dubarwa							", "price" : "		8 Nakfa" },
+{ "title" : "Orange Juice						", "price" : "			50 Nakfa" },
+{ "title" : "Carrot Juice						", "price" : "			35 Nakfa" },
+{ "title" : "Guava/Bannana Juice Take Away		", "price" : "							25 Nakfa" },
+{ "title" : "Ice Cream Cup	", "price" : "					30 Nakfa           ", "section_name" : "OTHERS", "section_pic" : "11.jpg"},
+{ "title" : "Ice Cream Cono	", "price" : "					15 Nakfa"},
+{ "title" : "Number Candle	", "price" : "					20 Nakfa"},
+{ "title" : "Alphabet Candel", "price" : "						50 Nakfa"},
+{ "title" : "Small Ballon	", "price" : "					120 Nakfa"},
+{ "title" : "Order			", "price" : "			350 Nakfa"},
+{ "title" : "Champagne		", "price" : "				700 Nakfa"}
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/restaurant"
+        android:title="@string/restaurant"
+        android:icon="@drawable/ic_restaurant_black_24dp"
+        android:orderInCategory="100"
+        />
+
+    <item
+        android:id="@+id/bar"
+        android:title="@string/bar"
+        android:icon="@drawable/ic_local_bar_black_24dp"
+        android:orderInCategory="200"
+        />
+
+    <item
+        android:id="@+id/fast_food"
+        android:title="@string/fast_food"
+        android:icon="@drawable/ic_local_pizza_black_24dp"
+        android:orderInCategory="300"
+        />
+
+    <item
+        android:id="@+id/hotel"
+        android:title="@string/hotel"
+        android:icon="@drawable/ic_hotel_black_24dp"
+        android:orderInCategory="400"
+        />
+
+    <item
+        android:id="@+id/cafe"
+        android:title="@string/cafe"
+        android:icon="@drawable/ic_local_cafe_black_24dp"
+        android:orderInCategory="500"
+        />
+
+
+</menu>

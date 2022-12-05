@@ -1,0 +1,543 @@
+{
+	"menu": [
+		{
+			"title": "ሻሂ / TEA",
+			"price": "10.00 ናቕፋ",
+			"section_name": " ውዑይን ሉስሉስን መስተ"
+		},
+		{
+			"title": "ሻሂ ብጅንጅብል/ GINGERINO",
+			"price": " 12.00 ናቕፋ"
+		},
+		{
+			"title": "ቡን / COFFEE",
+			"price": " 12.00 ናቕፋ"
+		},
+		{
+			"title": "ማክያቶ / MACCIATO",
+			"price": "13.00 ናቕፋ"
+		},
+		{
+			"title": "ካፑቺኖ / CAPUCCIANO",
+			"price": "15.00 ናቕፋ"
+		},
+		{
+			"title": "ኮካ ኣስማራ / COCA ASMARA",
+			"price": "12.00 ናቕፋ"
+		},
+		{
+			"title": "ኮካ ሱዳን / COCA SUDAN",
+			"price": "35.00 ናቕፋ"
+		},
+		{
+			"title": "ማንጉስ / MANGO",
+			"price": "45.00 ናቕፋ"
+		},
+		{
+			"title": "ኣራንሺ / ORANGE",
+			"price": "50.00 ናቕፋ"
+		},
+		{
+			"title": "እስፕሪስ / SPRIS",
+			"price": "30.00 ናቕፋ"
+		},
+		{
+			"title": "ባናና / BANANA",
+			"price": "20.00 ናቕፋ"
+		},
+		{
+			"title": "ፓፓዮ / PAPAYA",
+			"price": "35.00 ናቕፋ"
+		},
+		{
+			"title": "ዘይትቡን /GUAVA JUICE",
+			"price": "30.00 ናቕፋ"
+		},
+		{
+			"title": "ማንጎ ብጸባ / MANGO WITH MILK",
+			"price": "60.00 ናቕፋ"
+		},
+		{
+			"title": "ማይ ስሓ (ብከሪ) / WATER",
+			"price": "02፡00 ናቕፋ"
+		},
+		{
+			"title": "ማይ ስሓ(1/2) / WATER",
+			"price": "15:00  ናቕፋ "
+		},
+		{
+			"title": "ማይ ስሓ (ሊተሮ) WATER",
+			"price": "25:00 ናቕፋ"
+		},
+		{
+			"title": "ማይ ስሓ (1፡5 ሊተሮ) WATER",
+			"price": "30:00 ናቕፋ"
+		},
+		{
+			"title": "ማይ ጋዝ  ዓቢ / SABARGUMA",
+			"price": "15:00 ናቕፋ"
+		},
+        {
+        	"title":"ፉል ኖርማል ብዘይቲ",
+            "price": "25.00 ናቕፋ",
+            "section_name": "ቁርሲ / BREAKFAST"
+        },
+        {
+        	"title":"ፉል ብስምስም",
+            "price": "35.00 ናቕፋ "
+        },
+        {
+        	"title":"ፉል ብኦሊቭ",
+            "price": "35.00 ናቕፋ"
+        },
+        {
+        	"title":"ፉል መስላሕ",
+            "price": "45.00 ናቕፋ"
+        },
+        {
+        	"title":"ፉል ግላባ",
+            "price": "40.00  ናቕፋ"
+        },
+        {
+        	"title":"ፍሪታታ",
+            "price": "45.00 ናቕፋ"
+        },
+        {
+        	"title":"ፍሪታታ ብሳርዲን",
+            "price": "55.00 ናቕፋ"
+        },
+        {
+        	"title":"ፒያቲ ሳላጣ",
+            "price": "35.00 ናቕፋ"
+        },
+        {
+        	"title":"ፒያቲ ድንሽ ብሳርዲን",
+            "price": "55.00 ናቕፋ"
+        },
+        {
+        	"title":"ሓጻር ስልሲ ትጥማዕ",
+            "price": "35.00 ናቕፋ"
+        },
+        {
+        	"title":"ሓጻር ስልሲ ብሳርዲን",
+            "price": "50.00 ናቕፋ"
+        },
+        {
+        	"title":"ሓጻር ስልሲ ብእንቃቁሖ",
+            "price": "40.00 ናቕፋ"
+        },
+        {
+        	"title":"ፍትፍት ቅጫ ናይ ጾም",
+            "price": "55.00 ናቕፋ"
+        },
+        {
+        	"title":"ፍትፍት ስልሲ ቅጫ ብጠስሚ",
+            "price": "60.00 ናቕፋ"
+        },
+        {
+        	"title":"ፋታ ምስ 2ተ ባኒ ኖርማል",
+            "price": "35.00 ናቕፋ"
+        },
+        {
+        	"title":"ፋታ ምስ 3ተ ባኒ ኖርማል",
+            "price": "45.00 ናቕፋ"
+        },
+        {
+        	"title":"ፋታ ምስ 4ተ ባኒ ኖርማል",
+            "price": "65.00 ናቕፋ"
+        },
+        {
+        	"title":"ፋታ ምስ 5ተ ባኒ ኖርማል",
+            "price": "75.00 ናቕፋ"
+        },
+        {
+        	"title":"ፋታ ምስ 6ተ ባኒ ኖርማል",
+            "price": "90.00 ናቕፋ"
+        },
+        {
+        	"title":"ፋታ ብሓጻር ስልሲ ምስ 2ተ ባኒ",
+            "price": "45.00 ናቕፋ"
+        },
+        {
+        	"title":"ፋታ ብሓጻር ስልሲ ምስ 3ተ ባኒ",
+            "price": "55.00 ናቕፋ"
+        },
+		{ 
+			"title": "መንዲ / MENDI", 
+			"price": "195.00  ናቕፋ",
+			"section_name": "ዝርዝር  መግቢ / MAIN COURSE "
+		},
+		{ 
+			"title": "ከብሳ / KABSA", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሩዝ  ብዓሳ / RICE WITH FISH", 
+			"price": "151.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሩዝ  ብቅልዋ ስጋ / RICE WITH MEAT", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሩዝ ብገምበሪ / RICE WITH SHRIMP", 
+			"price": "221.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሩዝ ብደርሆ / RICE WITH CHICKEN", 
+			"price": "251.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ካብሬቶ ጻዕዳ/ ቀይሕ / KAPRIETO", 
+			"price": "171.00   ናቕፋ"
+		},
+		{ 
+			"title": "ላሕማ ናሽፍ / LAHMA NASHF", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ቡርማ  / BURMA", 
+			"price": "171.00   ናቕፋ"
+		},
+		{ 
+			"title": "ደልዕ ብሩዝ  / DELE BY RICE", 
+			"price": "171.00   ናቕፋ"
+		},
+		{ 
+			"title": "ኪብዳ  / KIBDA", 
+			"price": "91.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ባምያ ብስጋ / BAMYA WITH MEAT", 
+			"price": "109.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ምሉኽያ / MLUKYA", 
+			"price": "109.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሩዝ / RICE", 
+			"price": "79.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ከሙንያ (ድሎት) / DLOT", 
+			"price": "79.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ድንሽ ከባብ / CIRCLE POTATO", 
+			"price": "105.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዓሮባና ስፐሻል / ARABONA SPECIAL", 
+			"price": "377.0   ናቕፋ"
+		},
+		{ 
+			"title": "ስፕሪስ ጻዕዳ  / WHITE SPRIS", 
+			"price": "171.00   ናቕፋ"
+		},
+		{ 
+			"title": "ስፕሪስ ቀይሕ / RED SPRIS", 
+			"price": "171.00   ናቕፋ"
+		},
+		{ 
+			"title": "ምንቸት ኣብሽ ቀይሕን ጻዕዳን", 
+			"price": "101.00   ናቕፋ"
+		},
+		{ 
+			"title": "ዝልዝል  / ZILZIL", 
+			"price": "161.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዝግኒ በጊዕ / ZIGNI SHEEP", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዝግኒ ብዕራይ / ZIGNI OXEN", 
+			"price": "161.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ጎረድ ጎርድ / GORD GORD", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ቅንጥብጣብ / KINTBTAB", 
+			"price": "101.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዝግኒ ደርሆ / ZIGNI CHICKEN", 
+			"price": "201.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዓደስ  / LENTILES", 
+			"price": "71.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሽሮ / SHIRO", 
+			"price": "86.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሕውስዋስ ናይ ጾም / FASTING FOOD", 
+			"price": "98.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሻውርማ ብያቲ / SHAWERMA PLATE", 
+			"price": "101.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ስፕሪስ ዓሳ  / SPRIS FISH", 
+			"price": "152.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሩዝ ብስጋ / RICE WITH MEAT", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሽያ / SHYA", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ባምያ ብዘይ ስጋ  / BAMYA", 
+			"price": "81.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ጊማ  / GIMA", 
+			"price": "96.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ከባብ ስጋ  / CIRCLE MEAT", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሰላጣ ሶዳ / SALAD SADA", 
+			"price": "51.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ኩዳር መሽከል / KUDAR MESHEKEL", 
+			"price": "76.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዓሳ ጫዕጫዕ  / FISH CHAECHAE", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዝልዝል ዓሳ  / ZILZIL FISH", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዓሳ ግሪል / GRILL FISH", 
+			"price": "171.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዓሳ ኮቱሌተ / FISH CUTLET", 
+			"price": "151.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ዓሳ ከባብ   / CIRCLE FISH", 
+			"price": "151.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሚፋ ዓሳ ዓቢ / MIFA BIG", 
+			"price": "258.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሚፋ ማእከላይ / MIFA MEDIUM", 
+			"price": "162.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ሚፋ ንእሽቶ  / MIFA SMALL", 
+			"price": "129.00   ናቕፋ  "
+		},
+		{ 
+			"title": "ረጢብ  / RETIB", 
+			"price": "86.00   ናቕፋ  "
+		},
+		{ 
+			"title": "መንዲ ዓሳ / MENDI FISH", 
+			"price": "185.00   ናቕፋ  "
+		},
+		{ 
+			"title": "እስፕሪስ ዓሳ / SPRIS FISH", 
+			"price": "162.00   ናቕፋ  "
+		},
+        { 
+        	"title" : "ፓስታ ስፓጌቲ / PASTA SPAGHETTI     "   , 
+			"price": "91.00 ናቕፋ",
+        	"section_name": "ፓስታ / PASTA"
+        },
+        { 
+        	"title" : "ላፒዝማ ቦሎኛ / LAPIZMARK         "     , 
+        	"price": "106.00 ናቕፋ"
+        },
+        { 
+        	"title" : "ማካሮኒ / MACORONNI               "   ,
+        	 "price": "91.00 ናቕፋ"
+        },
+        { 
+        	"title" : "ፓስታ ኣልፎርኖ / PASTA ALPHORNO     "   , 
+        	"price": "108.00 ናቕፋ"
+        },
+        { 
+        	"title" : "ታላቴሊ / TALATIELI                 " , 
+        	"price": "116.00 ናቕፋ"
+        },
+        { 
+        	"title" : "ስፓጌቲ ዓሳ  / SPAGHETTI WITH FISH   " , 
+        	"price": "118.00 ናቕፋ"
+        },
+        { 
+        	"title" : "ስፓጌቲ ናይ ጾም / FASTING SPAGHETTI "   ,
+        	 "price": "96.00 ናቕፋ"
+        },
+        { 
+        	"title": "ኣፍሪካና  ፒሳ / AFRICANA", 
+			"price": "212.00 ናቕፋ",
+        	"section_name": "ፒሳ / PIZZA"
+        },
+        { 
+        	"title": "ኮም ችዝ ፒሳ  / KOM CHEESE", 
+			"price": "191.00 ናቕፋ"
+        },
+        { 
+        	"title": "ማሽሩም ፒሳ / MASHROOM", 
+			"price": "212.00 ናቕፋ"
+        },
+        { 
+        	"title": "ማርጋሬት  / MARGERITTA", 
+			"price": "191.00 ናቕፋ"
+        },
+        { 
+        	"title": "ናይ ጾም ፒሳ / FASTING PIZZA", 
+			"price": "191.00 ናቕፋ"
+        },
+        { 
+        	"title": "ችክን ፒሳ     CHIKEN", 
+			"price": "234.00 ናቕፋ"
+        },
+        { 
+        	"title": "ፒሳ ምስ ቱና WITH TUNA", 
+			"price": "212.00 ናቕፋ"
+        },
+        { 
+        	"title": "ናፓልዮን ፒሳ NAPOLION", 
+			"price": "212.00 ናቕፋ"
+        },
+        { 
+        	"title": "እስፐሻል ዓሮባና ፒሳ  / SPECIAL ARABONA", 
+			"price": "265.00 ናቕፋ"
+        },
+        { 
+        	"title": "ኣመሪካን ፒሳ / AMERICANA", 
+			"price": "212.00 ናቕፋ"
+        },
+        { 
+        	"title": "ቴክ ኣወይ / TAKE AWAY", 
+			"price": "20.00 ናቕፋ"
+        },
+        { 
+        	"title": "ለሚን  / LEMON", 
+			"price": "35.00 ናቕፋ"
+        },
+        { 
+        	"title": "ባኒ  / BREAD", 
+			"price": "5.00 ናቕፋ"
+        },
+        {
+        	"title": "ቺዝ በርገር  / CHEESE BURGER", 
+			"price": "76.00 ናቕፋ",
+        	"section_name": "ፋስት ፉድ / FASTFOOD"
+        },
+        {
+        	"title": "ላፒዝማርክ / LAPIZMARK", 
+			"price": "76.00 ናቕፋ"
+        },
+        {
+        	"title": "ዓሮባና ስፐሻል በርገር / AROBANA SPECIAL BURGER", 
+			"price": "120 ናቕፋ"
+        },
+        {
+        	"title": "ቶስት ቺዝ በርገር  / TOAST CHEESE BURGER", 
+			"price": "61.00 ናቕፋ"
+        },
+        {
+        	"title": "ፓኒኖ እንቃቁሖ / EGG SANDWICH", 
+			"price": "31.00 ናቕፋ"
+        },
+        {
+        	"title": "ፍሬንች ፍራይስ / FRENCH FRIES", 
+			"price": "61.00 ናቕፋ"
+        },
+        {
+        	"title": "ፓኒኖ ዓሳ / FISH SANDWICH", 
+			"price": "61.00 ናቕፋ"
+        },
+        {
+        	"title": "ፓኒኖ ቱና  / TUNA SANDWICH", 
+			"price": "51.00 ናቕፋ"
+        },
+        {
+        	"title": "ክለብ ሳንዲዊች  / CLUB SANDWICH", 
+			"price": "101.00 ናቕፋ"
+        },
+        {
+        	"title": "ስክራንብል ፊሽ / SCRAMBLE FISH", 
+			"price": "61.00 ናቕፋ"
+        },
+        {
+        	"title": "ኦምሌት / OMLET", 
+			"price": "41.00 ናቕፋ"
+        },
+        {
+        	"title": "ግሪል ፊሽ / GRILL FISH", 
+			"price": "71.00 ናቕፋ"
+        },
+        {
+        	"title": "ሳምቡሳ / SANBUSA", 
+			"price": "12.00 ናቕፋ"
+        },
+        {
+        	"title": "ፓስተ / CAKE", 
+			"price": "10.00 ናቕፋ"
+        },
+        {
+        	"title": "ፓኒኖ ሻውርማ / SHAWERMA SANDWICH", 
+			"price": "66.00 ናቕፋ"
+        },
+        {
+        	"title": "ሃምበርገር  / HAMBURGER", 
+			"price": "61.00 ናቕፋ"
+        },
+        {
+        	"title": "ስላይስ ቶርታ  / SLICE TORTA", 
+			"price": "101.00 ናቕፋ"
+        },
+        {
+        	 "title": "ኬክ / CAKE",
+        	 "price": "15.00 ናቕፋ",
+        	 "index" : "ኬክ/CAKE" 
+        },
+        {
+        	 "title": "ኬክ  / CAKE",
+        	 "price": "12.00 ናቕፋ" 
+        },
+        {
+        	 "title": "ኬክ  / CAKE",
+        	 "price": "10.00 ናቕፋ" 
+        },
+        {
+        	 "title": "ቶርታ ዓቢ / TORTA BIG",
+        	 "price": "150.00 ናቕፋ" 
+        },
+        {
+        	 "title": "ቶርታ ቸኮላታ / TORTA CHOCOLATE" ,
+        	 "price": "200.00 ናቕፋ" 
+        },
+        {
+        	 "title": "ስላይስ ኬክ  / SLICE CAKE",
+        	 "price": "150.00 ናቕፋ" 
+        },
+        {
+        	 "title": "ሱፕ / SOUP",
+        	 "price": "10.00 ናቕፋ" 
+        }
+	]
+}

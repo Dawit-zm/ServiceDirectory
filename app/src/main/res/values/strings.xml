@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Asmara\'s Finest</string>
+    <string name="rooms">Rooms</string>
+    <string name="facilities">Facilities</string>
+    <string name="menu">Menu</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="bar">Bars</string>
+    <string name="cafe">Cafes</string>
+    <string name="all_places">All places</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="first_course">Restaurant- First Course</string>
+    <string name="main_course">Main Course</string>
+    <string name="pizza_house">Pizza House</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="appetizer_and_dessert">Appetizer and Dessert</string>
+    <string name="names">Places</string>
+
+    <string name="arabona">Arabona</string>
+    <string name="china_star_restaurant">China Star Restaurant</string>
+    <string name="family_pizza">Family Pizza</string>
+    <string name="in_n_out_burger">In N Out Burger</string>
+    <string name="nassr_burger">Nassr Burger</string>
+    <string name="silver_restaurant">Silver Restaurant</string>
+    <string name="call">Call</string>
+
+
+    <string name="fast_food">Fast foods</string>
+    <string name="park">Park</string>
+    <string name="hotel">Hotels</string>
+    <string name="meat_and_diary">Meat and Diary</string>
+    <string name="speciality">Speciality: \n\n</string>
+
+
+    <string-array name="all_places">
+        <item>@string/albergo_info</item>
+        <item>@string/royal_info</item>
+        <item>@string/sunlight_info</item>
+        <item>@string/arabona_info</item>
+        <item>@string/china_star_restaurant_info</item>
+        <item>@string/silver_restaurant_info</item>
+        <item>@string/manta_info</item>
+        <item>@string/family_pizza_info</item>
+        <item>@string/nassr_burger_info</item>
+        <item>@string/in_n_out_burger_info</item>
+        <item>@string/hani_ff_info</item>
+        <item>@string/yasmin_info</item>
+        <item>@string/zara_ff_info</item>
+    </string-array>
+
+    <string-array name="hotels">
+        <item>@string/albergo_info</item>
+    </string-array>
+
+    <string-array name="cafes">
+        <item>@string/royal_info</item>
+        <item>@string/sunlight_info</item>
+    </string-array>
+
+    <string-array name="restaurants">
+        <item>@string/arabona_info</item>
+        <item>@string/china_star_restaurant_info</item>
+        <item>@string/silver_restaurant_info</item>
+        <item>@string/manta_info</item>
+    </string-array>
+
+    <string-array name="fast_foods">
+        <item>@string/family_pizza_info</item>
+        <item>@string/nassr_burger_info</item>
+        <item>@string/in_n_out_burger_info</item>
+        <item>@string/hani_ff_info</item>
+        <item>@string/yasmin_info</item>
+        <item>@string/zara_ff_info</item>
+    </string-array>
+
+    <string-array name="bars"></string-array>
+
+    <string-array name="places">
+        <item>royal</item>
+        <item>albergo</item>
+        <item>arabona</item>
+        <item>china_star_restaurant</item>
+        <item>family_pizza</item>
+        <item>in_n_out_burger</item>
+        <item>nassr_burger</item>
+        <item>silver_restaurant</item>
+        <item>hani_ff</item>
+        <item>manta</item>
+        <item>sunlight</item>
+        <item>yasmin</item>
+        <item>zara_ff</item>
+    </string-array>
+
+    <string name="royal_info">royal, Royal Cafe, 120703, Harnet Avenue \nOpening Hours 7:00 Am to 11:00 Pm, Wedding torta (300 Nakfa Per 1k.g)\nMini cakes for wedding Breakfast, 15.336456–38.935817, 0</string>
+    <string name="albergo_info">albergo, Albergo Italia, 120740, Nakfa Avenue, SPEC , 15.338312–38.935115, 0</string>
+    <string name="arabona_info">arabona, Arabona Restaurant, 113126, Adulis Avenue Open From 7 AM to 10 PM, Wifi Service\nTake Away, 15.339109–38.926689, 1</string>
+    <string name="china_star_restaurant_info">china_star_restaurant, China Star Restaurant, 125853, Beirut Street\n Opening Hours: 7:00 Am to 2:30 Pm  5:00 PM TO 11:00 PM, Fried Lemon Chicken\nCrisp Fried Prawns With Sesame\nBeef on Hot Plate\nSweet and Sour Pork Meat\nTake Away Service, 15.331982–38.9291, 0</string>
+    <string name="family_pizza_info">family_pizza, Family Pizza, 185138, Avenue\n Opening Hours from 7:00AM to 11:00PM, Vip Service\nTake Away and Home Delivery\nParking, 15.320281–38.920776, 0</string>
+    <string name="in_n_out_burger_info">in_n_out_burger, In n Out Burger, 07278387, Senafe Avenue\n Opening Hours 8Am to 12:00 Pm, Take Away\nHome Delivery Services, 15.337389–38.94122, 1</string>
+    <string name="nassr_burger_info">nassr_burger, Nassr Burger, 113913, Nakfa Avenue\n Opening Hours 7Am to 10:30 Pm, Take Away\nHome Delivery Services, 15.338026–38.943459, 1</string>
+    <string name="silver_restaurant_info">silver_restaurant, Silver Restaurant, 112944, Era Avenue House Number 2 \nOpening Hours: 6:00pm to 11:00pm, Tizamisu\nPizza on Brick Oven\nLive Background Music Every Other Saturday, 15.325671–38.940109, 1</string>
+    <string name="hani_ff_info">hani_ff, ሃኒ ፋስት ፉድ, 07130277, ዕዳጋ ሓሙስ ጎደና ሞጎሎ ቁጽሪ 6, ሄብሮን ፓስትሪ: ዝተፈላለየ ዓይነት ፓስተ ብ 8 ናቅፋ–ሕንባሻ ብ 40 ናቅፋ–ግሪሲኒ / ብሽኮቲ/ ጃልቤሪ/–ፓናቶነ ውን ኣለና, 0–0, 0</string>
+    <string name="manta_info">manta,Manta Dairy Meat and Pork Products, 113124,  ADDRESS DENKEL AVENUE\nOPENING HOURS : 7:30AM UPTO 11:30PM, RICOTA–TAKE AWAY SERVICES, 15.333017–38.939071, 0</string>
+    <string name="sunlight_info">sunlight,Sunlight Pastry and café, 120617, FELKET AVENUE HOUSE NO 2\nOPENING HOURS 6:30 AM TO 9:30 PM, WEDDING CAKE (ቶርታ ናይ መርዓ) ናይ 3ተ 5ተ 7ተ ፒያኖ ኣለና።-ከምኡ’ውን-ዋንዋን-ስላይስ-ብሽኮቲ-ቶርታ ዓቢ, 15.336302–38.94203, 1</string>
+    <string name="yasmin_info">yasmin,  YASMIN SNAK BAR,  127194, NAKFA AVENUE  NO 57\nOPENING HOURS 6:00 AM UPTO 9:30 PM, ፉል,  15.338147–38.937061, 0 </string>
+    <string name="zara_ff_info">zara_ff,  ZARA SNACK BAR, 117620, MAT-A AVENUE NO 2830, ብፍሉይ ፋታን ቅጫ ፍትፍትን ብ ባኒ ስገምን ቅጫ ስገምን ብጽፉፍ ኣሰራርሓ ዝተዳለወ ንዓማዊልና ንምሕጓስ ምስ ፍሉይ ጣዕሙ ቀሪብናልኩም ኣለና, 15.33584–38.939692, 1</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

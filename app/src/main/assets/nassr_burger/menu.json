@@ -1,0 +1,55 @@
+{
+	"menu": [
+		{ "title" : "Hamberger (ሃምበርገር)		", "price" : "			45 Nakfa", "section_name": "Sandwich (ፓኒኖ)", "section_pic": "1.jpg"},
+		{ "title" : "Cheese Burger(ቺዝ በርገር) 	 ", "price" : "		55 Nakfa"},
+		{ "title" : "Lapizma(ላፒዝማርክ) 			", "price" : "		55 Nakfa"},
+		{ "title" : "Club Sandwich(ክለብ ሳንድዊች)", "price" : "			60 Nakfa"},
+		{ "title" : "Toast(ቶስት)					", "price" : "		40 Nakfa"},
+		{ "title" : "Egg Sandwich(ፓኒኖ እንቛቑሖ)	", "price" : "		40 Nakfa"},
+		{ "title" : "Potato Sandwich(ፓኒኖ ድንሽ)	", "price" : "		30 Nakfa"},
+		{ "title" : "Banana & Milk Juice(ባናና ብጸባ)", "price" : "				30 Nakfa", "section_name": "Juice (ጽሟቕ)", "section_pic" : "2.jpg" },
+		{ "title" : "Tang Juice(ዓሲር ታንግ)			", "price" : "			10 NAkfa" },
+		{ "title" : "Papaya(ፓፓዮ)					", "price" : "			20 Nakfa" },
+		{ "title" : "Zeytibun(ዘይትቡን)				", "price" : "			20 Nakfa" },
+		{ "title" : "Mixed Juice(ስፕሪስ)				", "price" : "			25 Nakfa" },
+		{ "title" : "Mango(ማንጎ)					", "price" : "				40 Nakfa" },
+		{ "title" : "French Fries(ፍሬንች ፍራይስ)	" , "price" : "				50 Nakfa", "section_name" : "Others (ካልእ ንህቦ ኣገልግሎት)", "section_pic": "3.jpg" },
+		{ "title" : "Big Water(ማይ ስሓ ዓቢ)		" , "price" : "					25  Nakfa" },
+		{ "title" : "Small Water(ንእሽቶ ማይ ስሓ)	" , "price" : "						15 Nakfa" },
+		{ "title" : "Pepsi(ፔፕሲ)				" , "price" : "						35 Nakfa" },
+		{ "title" : "Mineral Water(ማይ ጋዝ)		" , "price" : "					10 Nakfa" },
+		{ "title" : "Sambusa(ሳንቡሳ)				" , "price" : "						10 Nakfa" },
+		{ "title" : "Moka(ሞካ)					" , "price" : "						30 Nakfa" }
+
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,122 @@
+{
+	"menu": [
+			{ "title" : "ቅጫ ፍትፍት" , "price" : "                                    50፡00 ናቅፋ", "section_name" : "ቅጫ ፍትፍት", "section_pic" : "ቅጫ ፍትፍት.jpg"},
+			{ "title" : "ቅጫ ብጠስሚ" , "price" : "                                   60፡00 ናቅፋ"},
+			{ "title" : "ቅጫ ብቃንጣ" , "price" : "                                    60፡00 ናቅፋ"},
+			{ "title" : "ቅጫ ብስጋ" , "price" : "                                       70፡00 ናቅፋ"},
+			{ "title" : "ቅጫ ብዓሳ" , "price" : "                                       70፡00 ናቅፋ"},
+			{ "title" : "ስፓጌቲ ብስልሲ" , "price" : "                       40፡00 ናቅፋ", "section_name" : "ፓስተ ስፓጌቲ", "section_pic" : "spagheti.jpg" },
+			{ "title" : "ስፓጌቲ ብስጋ" , "price" : "                         60፡00 ናቅፋ" },
+			{ "title" : "ስፓጌቲ ብዓሳ" , "price" : "                          60፡00 ናቅፋ" },
+			{ "title" : "ብያቲ ሰላጣ       ", "price" : "                          40፡00 ናቅፋ", "section_name": "ፍሪታታ", "section_pic" : "ፍሪታታ.jpg"},
+			{ "title" : "ፍሪታታ ሆላንድ    ", "price" : "                         30.00 ናቅፋ"},
+			{ "title" : "ፍሪታታ ብናይ ሓበሻ", "price" : "                         36.00 ናቅፋ"},
+			{ "title" : "ፍሪታታ ምስ ዓሳ    ", "price" : "                         35.00 ናቅፋ"},
+			{ "title" : "ፍሪታታ ምስ ድንሽ  ", "price" : "                         40.00 ናቅፋ"},
+			{ "title" : "ስፐሻል ሃኒ ሩዝ ፍሪ", "price" : "							No Price"},
+			{ "title" : "ምስ 2 ባኒ", "price" : "20.00 ናቅፋ" , "section_name" : "ፋታ", "section_pic" : "FATA.jpg"},
+			{ "title" : "ምስ 3 ባኒ", "price" : "25.00 ናቅፋ" },
+			{ "title" : "ምስ 4 ባኒ", "price" : "35.00 ናቅፋ" },
+			{ "title" : "ምስ 5 ባኒ", "price" : "45.00 ናቅፋ" },
+			{ "title" : "ምስ 6 ባኒ", "price" : "55.00 ናቅፋ" },
+			{ "title" : "ምስ 2 ባኒ", "price" : "30.00 ናቅፋ", "section_name" : "ፋታ ብሓጺር ስልሲ", "section_pic" : "FATA ብሓጻር ስልሲ.jpg" },
+			{ "title" : "ምስ 3 ባኒ", "price" : "35.00 ናቅፋ" },
+			{ "title" : "ምስ 4 ባኒ", "price" : "40.00 ናቅፋ" },
+			{ "title" : "ምስ 5 ባኒ", "price" : "50.00 ናቅፋ" },
+			{ "title" : "ምስ 6 ባኒ", "price" : "60.00 ናቅፋ" },
+			{ "title" : "ምስ 2 ባኒ             ", "price": "    30.00 ናቅፋ", "section_name": "ስፔሻል ፋታ", "section_pic": "FATA SPECIAL.jpg"},
+			{ "title" : "ምስ 3 ባኒ             ", "price": "    40.00 ናቅፋ"},
+			{ "title" : "ምስ 4 ባኒ             ", "price": "    50.00 ናቅፋ"},
+			{ "title" : "ምስ 5 ባኒ             ", "price": "    65.00 ናቅፋ"},
+			{ "title" : "ፋታ  ብዓሳ ብጠለብኩም ንውስኽ	", "price": "ብጠለብኩም ንውስኽ"},
+			{ "title" : "ሓጻር ስልሲ      ", "price": "30.00 ናቅፋ ", "section_name" : "ሓጻር ስልሲ", "section_pic" : "FATA ብሓጻር ስልሲ.jpg"},
+			{ "title" : "ሓጻር ስልሲ እንቃቅሖ", "price": "35.00 ናቅፋ" },
+			{ "title" : "ሓጻር ስልሲ ቶኖ   ", "price": "35.00 ናቅፋ" },
+			{ "title" : "መረቅ ዓሳ ", "price": "25.00 ናቅፋ" , "section_name": "ዓይነት ዓሳ  ", "section_pic": "ዓሳ.jpg"},
+			{ "title" : "ፍርፍር ዓሳ", "price": "50.00 ናቅፋ" },
+			{ "title" : "ቅልዋ ዓሳ ", "price": "80.00 ናቅፋ" },
+			{ "title" : "ፓኒኖ  እንቃቅሖ ሆላንድ  ", "price": "20.00 ናቅፋ", "section_name" : "ዓይነት ፓኒኖ", "section_pic" : "ፓኒኖ.jpg" },
+			{ "title" : "ፓኒኖ እንቃቅሖ  ሓበሻ   ", "price": "26.00 ናቅፋ" },
+			{ "title" : "ፓኒኖ ድንሽ          ", "price": "26.00 ናቅፋ" },
+			{ "title" : "ፓኒኖ እንቃቅሖ ምስ ድንሽ ", "price": "35.00 ናቅፋ" },
+			{ "title" : "ቶስት ሞርቴደላ        ", "price": "40.00 ናቅፋ" },
+			{ "title" : "ሕውስዋስ            ", "price": "50.00 ናቅፋ" },
+			{ "title" : "ሃምበርገር           ", "price": "55.00 ናቅፋ" },
+			{ "title" : "ላፒዝማ             ", "price": "55.00 ናቅፋ" },
+			{ "title" : "ቺዝበርገር           ", "price": "65.00 ናቅፋ" },
+			{ "title" : "ፉል ኖርማል ", "price": "25.00 ናቅፋ" , "section_name" : "ፉል", "section_pic": "ፉል.jpg"},
+			{ "title" : "ፉል ግላባ  ", "price": "30.00 ናቅፋ" },
+			{ "title" : "ፉል መሰላሕ ", "price": "30.00 ናቅፋ" },
+			{ "title" : "ሻሂ   ", "price": " 5.00 ናቅፋ", "section_name": " ውዑይ ነገር    ", "section_pic": "ውዑይ ዝስተ.png" },
+			{ "title" : "ጅንጅብል", "price": " 6.00 ናቅፋ" },
+			{ "title" : "ቡን   ", "price": "10.00 ናቅፋ" },
+			{ "title" : "ማክያቶ ", "price": "10.00 ናቅፋ" },
+			{ "title" : "ጸባ   ", "price": "10.00 ናቅፋ" },
+			{ "title" : "ካፑቺኖ ", "price": "12.00 ናቅፋ" },
+			{ "title" : "ፓፓዮ    ", "price": "15.00 ናቅፋ" , "section_name": "ዓይነት ጽማቅ", "section_pic": "ጽማቅ.jpg"},
+			{ "title" : "ጸባ ብባናና", "price": "15.00 ናቅፋ" },
+			{ "title" : "ዘይቱን   ", "price": "15.00 ናቅፋ" },
+			{ "title" : "ስፕሪስ   ", "price": "15.00 ናቅፋ" },
+			{ "title" : "ማንጉስ   ", "price": "20.00 ናቅፋ" },
+			{ "title" : "ሃኒ ጁስ  ", "price": "25.00 ናቅፋ" },
+			{ "title" : "ኮካ        ", "price" : " 8.50 ናቅፋ" , "section_name": "ዝሑል መስተ", "section_pic": "ዝሑል ዝስተ.jpg"},
+			{ "title" : "ማይ ጋዝ     ", "price" : "15.00 ናቅፋ" },
+			{ "title" : "ንእሽቶ ማይ ሰሓ", "price" : "15.00 ናቅፋ" },
+			{ "title" : "ዓቢ ማይ     ", "price" : "20.00 ናቅፋ" },
+			{ "title" : "ብኬሪ ርግኦ   ", "price" : "15.00 ናቅፋ" }
+    ]
+}
+
+
+
+    
+ 
+                      
+ 
+                   
+ 
+                          
+                 
+                         
+ 
+                           
+ 
+                
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

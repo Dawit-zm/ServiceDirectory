@@ -1,0 +1,207 @@
+{
+	"menu": [
+			{ 
+				"title" : "MARGARITA                                ",
+				"price" : "160.00 NAKFA",
+				"section_name" : "PIZZA"
+			},
+			{ 
+				"title" : "VEGETABLE                                ",
+				"price" : "180.00 NAKFA"
+			},
+			{ 
+				"title" : "AFRICANA\n(MINCED MEAT, PEPPER….)        ",
+				"price" : "180.00 NAKFA"
+			},
+			{ 
+				"title" : "CAPRICCIOSA\n(HAM, BOILED EGG……)          ",
+				"price" : "180.00 NAKFA"
+			},
+			{ 
+				"title" : "ZILZIL\n(MEAT, PEPPER……)                  ",
+				"price" : "170.00 NAKFA"
+			},
+			{ 
+				"title" : "AMERICANA\n(PINEAPPLE, ROCCOTA…..)        ",
+				"price" : "170.00 NAKFA"
+			},
+			{ 
+				"title" : "SILVER SPECIAL\n(LITTLE BIT OF EVERYTHING)",
+				"price" : "190.00 NAKFA"
+			},
+			{ 
+				"title" : "SAMARA\n(NIGHT SPECIAL)                   ",
+				"price" : "200.00 NAKFA"
+			},
+			{ 
+				"title" : "RED SEA \n(SHRIMP, FISH, SARDIN)          ",
+				"price" : "200.00 NAKFA"
+			},
+			{ 
+				"title" : "SHRIMP                                   ",
+				"price" : "190.00 NAKFA"
+			},
+			{ 
+				"title" : "MUSHROOM PEPPERONI                       ",
+				"price" : "180.00 NAKFA"
+			},
+			{ 
+				"title" : "FASTING                                  ",
+				"price" : "140.00 NAKFA"
+			},
+			{ 
+				"title" : "TOMATO SAUCE                                        ",
+				"price" : " 90.00 NAKFA",
+				"section_name" : "PASTA"
+			},
+			{ 
+				"title" : "BOLOGNESE\n(TOMATO, MINCED MEAT, WINE)              ",
+				"price" : "100.00 NAKFA"
+			},
+			{ 
+				"title" : "CHICKED SAUCE                                       ",
+				"price" : "110.00 NAKFA"
+			},
+			{ 
+				"title" : "FISH SAUCE                                          ",
+				"price" : "130.00 NAKFA"
+			},
+			{ 
+				"title" : "SAMARA SAUCE\n(OLIVE, MUSHROOM, PEAS, WINE, BUTTER) ",
+				"price" : "130.00 NAKFA"
+			},
+			{ 
+				"title" : "SHRIMP SAUCE                                        ",
+				"price" : "130.00 NAKFA"
+			},
+			{ 
+				"title" : "SAMARA DISH\n(PASTA, BEEF OR FISH, VEGGIE)								",						
+				"price" : "170.00 NAKFA",
+				"section_name" : "SPECIAL"
+			},
+			{ 
+				"title" : "SLIVER DISH\n(PASTA, BEEFM FISH, VEGGIE)                                ",                                     
+				"price" : "200.00 NAKFA"
+			},
+			{ 
+				"title" : "CHICKEN DISH\n(PASTA WITH CHICKEN SAUCE, BONES, VEGGIE)                 ",                                                  
+				"price" : "220.00 NAKFA"
+			},
+			{ 
+				"title" : "MIXED DISH\n(BEEF, SHRIMP, VEGGIE)                                      ",                                 
+				"price" : "200.00 NAKFA"
+			},
+			{ 
+				"title" : "SHRIMP DISH\n(PASTA WITH SHRIMP SAUCE, FRIED SHRIMP, VEGGIE)            ",                                                         
+				"price" : "220.00 NAKFA"
+			},
+			{ 
+				"title" : "BEEF CUTLET                 ",
+				"price" : "140.00 NAKFA",
+				"section_name" : "SECOND COURSE"
+			},
+			{ 
+				"title" : "BEEF STEAK                  ",
+				"price" : "140.00 NAKFA"
+			},
+			{ 
+				"title" : "BEEF ZILZIL                 ",
+				"price" : "140.00 NAKFA"
+			},
+			{ 
+				"title" : "TIBSI BEEF                  ",
+				"price" : "150.00 NAKFA"
+			},
+			{ 
+				"title" : "TIBSI FISH                  ",
+				"price" : "170.00 NAKFA"
+			},
+			{ 
+				"title" : "FISH CUTLET                 ",
+				"price" : "160.00 NAKFA"
+			},
+			{ 
+				"title" : "GRILL FISH                  ",
+				"price" : "160.00 NAKFA"
+			},
+			{ 
+				"title" : "FISH WITH SWEET CHILLY SAUCE",
+				"price" : "170.00 NAKFA"
+			},
+			{ 
+				"title" : "FISH FINGER                 ",
+				"price" : "170.00 NAKFA"
+			},
+			{ 
+				"title" : "SWEET FISH BALLS            ",
+				"price" : "170.00 NAKFA"
+			},
+			{ 
+				"title" : "FISH KEBAB                  ",
+				"price" : "160.00 NAKFA"
+			},
+			{ 
+				"title" : "FISH WITH SAMARA SAUCE      ",
+				"price" : "170.00 NAKFA"
+			},
+			{ 
+				"title" : "FISH SILVER                 ",
+				"price" : "180.00 NAKFA"
+			},
+			{ 
+				"title" : "SHRIMP FRIED                ",
+				"price" : "190.00 NAKFA"
+			},
+			{ 
+				"title" : "GRILLED SHRIMP              ",
+				"price" : "180.00 NAKFA"
+			},
+			{ 
+				"title" : "SILVER SALAD",
+				"price" : "100.00 NAKFA",
+				"section_name" : "EXTRAS"
+			},
+			{ 
+				"title" : "FRENCH FRIES",
+				"price" : " 90.00 NAKFA"
+			},
+			{ "title" : "TIRAMISU",
+			  "price" : "30.00 NAKFA",
+			  "section_name" : "DESSERT"
+			},
+			{  	
+				"title" : "BEER          ",
+				"price" : "20.00 NAKFA",
+				"section_name" : "DRINKS"
+			},
+			{ 	
+				"title" : "WATER (0.5L)  ",
+				"price" : "15.00 NAKFA"
+			},
+			{ 
+				"title" : "MINERAL WATER ",
+				"price" : "20.00 NAKFA"
+			},
+			{ 
+				"title" : "SOFT DRINKS   ",
+				"price" : "15.00 NAKFA"
+			},
+			{ 
+				"title" : "GINGERINO     ",
+				"price" : "20.00 NAKFA"
+			},
+			{ 
+				"title" : "TEA           ",
+				"price" : "10.00 NAKFA"
+			},
+			{ 
+				"title" : "IMPORTED FULL BOTTLE ", 
+				"price" : "500.00 NAKFA",
+				"section_name": "WINE"
+			},
+			{ 
+				"title" : "GLASS                ",
+				 "price" : " 75.00 NAKFA"
+			}
+    ]
+}
